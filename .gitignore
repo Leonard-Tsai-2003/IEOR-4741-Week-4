@@ -1,4 +1,5 @@
 .DS_Store
 .vscode/
 hft-cpp-starter-columbia/
-test*
+test_*
+test.cpp
